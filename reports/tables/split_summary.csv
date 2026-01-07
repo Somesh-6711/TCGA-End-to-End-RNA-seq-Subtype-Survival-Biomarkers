@@ -1,0 +1,2 @@
+n_samples_total,n_patients_total,n_patients_train,n_patients_test,n_genes_out,train_samples_total,test_samples_total,train_class_labeled,test_class_labeled,train_surv_labeled,test_surv_labeled,class_label_counts_train,class_label_counts_test
+530,516,412,103,5000,423,106,423,106,423,105,"{'Oligodendroglioma': np.int64(163), 'Astrocytoma': np.int64(155), 'Oligoastrocytoma': np.int64(105)}","{'Astrocytoma': np.int64(42), 'Oligodendroglioma': np.int64(35), 'Oligoastrocytoma': np.int64(29)}"

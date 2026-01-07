@@ -1,0 +1,33 @@
+xenaPython @ git+https://github.com/ucscXena/xenaPython
+
+# Core
+numpy>=1.26
+pandas>=2.2
+scipy>=1.11
+
+# ML
+scikit-learn>=1.4
+xgboost>=2.0
+
+# Survival analysis
+lifelines>=0.28
+
+# Dimensionality reduction / viz
+umap-learn>=0.5
+matplotlib>=3.8
+plotly>=5.18
+
+# Bio enrichment (pathways)
+gseapy>=1.1
+
+# Utils
+pyarrow>=15.0
+tqdm>=4.66
+requests>=2.31
+pydantic>=2.6
+
+# App
+streamlit>=1.31
+
+# Dev
+pytest>=8.0

@@ -1,0 +1,11 @@
+{
+  "model": "CoxPH",
+  "penalizer": 0.5,
+  "top_genes": 500,
+  "patient_agg": true,
+  "n_train": 412,
+  "n_test": 102,
+  "n_features": 500,
+  "cindex_train": 0.9018704872363409,
+  "cindex_test": 0.8634435962680237
+}

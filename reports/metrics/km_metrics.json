@@ -1,0 +1,11 @@
+{
+  "split": {
+    "method": "median",
+    "threshold": 0.5583703540216489
+  },
+  "n_total": 102,
+  "n_low": 51,
+  "n_high": 51,
+  "logrank_p_value": 0.0003517515450806372,
+  "test_statistic": 12.772504601367462
+}

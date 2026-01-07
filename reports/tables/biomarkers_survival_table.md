@@ -1,0 +1,32 @@
+| gene         |    coef |   variance |   hazard_ratio | direction                |
+|:-------------|--------:|-----------:|---------------:|:-------------------------|
+| PRKG2        | -0.071  |     4.5531 |          0.931 | ↓ risk (better survival) |
+| HOXD4        |  0.0686 |     4.6182 |          1.071 | ↑ risk (worse survival)  |
+| TMED7-TICAM2 |  0.0639 |     4.3914 |          1.066 | ↑ risk (worse survival)  |
+| CRABP1       |  0.063  |     4.8474 |          1.065 | ↑ risk (worse survival)  |
+| BPIL1        | -0.0542 |     4.6414 |          0.947 | ↓ risk (better survival) |
+| COL28A1      |  0.0519 |     4.907  |          1.053 | ↑ risk (worse survival)  |
+| PCDHA4       | -0.0517 |     4.8389 |          0.95  | ↓ risk (better survival) |
+| PCDHGA9      |  0.0511 |     5.2673 |          1.052 | ↑ risk (worse survival)  |
+| CYP4F12      |  0.0506 |     4.303  |          1.052 | ↑ risk (worse survival)  |
+| ESM1         | -0.0493 |     4.532  |          0.952 | ↓ risk (better survival) |
+| COL22A1      |  0.0492 |     7.2283 |          1.05  | ↑ risk (worse survival)  |
+| TMEM132D     | -0.049  |     6.5282 |          0.952 | ↓ risk (better survival) |
+| EMP3         |  0.0489 |     4.3253 |          1.05  | ↑ risk (worse survival)  |
+| SFRP2        | -0.0485 |     8.6999 |          0.953 | ↓ risk (better survival) |
+| PCDH15       | -0.0477 |     4.2538 |          0.953 | ↓ risk (better survival) |
+| PDYN         |  0.047  |     8.1515 |          1.048 | ↑ risk (worse survival)  |
+| PCDHGB1      |  0.0461 |     5.0581 |          1.047 | ↑ risk (worse survival)  |
+| HOXD3        |  0.046  |     5.9054 |          1.047 | ↑ risk (worse survival)  |
+| CALB2        | -0.0452 |     4.7917 |          0.956 | ↓ risk (better survival) |
+| ABCC3        |  0.045  |     7.1119 |          1.046 | ↑ risk (worse survival)  |
+| DLL3         | -0.0448 |     4.2153 |          0.956 | ↓ risk (better survival) |
+| PCDHGB7      | -0.0448 |     6.9636 |          0.956 | ↓ risk (better survival) |
+| EN1          |  0.0445 |     6.5654 |          1.045 | ↑ risk (worse survival)  |
+| CALN1        | -0.0442 |     4.5376 |          0.957 | ↓ risk (better survival) |
+| FSTL5        | -0.0434 |     4.7493 |          0.958 | ↓ risk (better survival) |
+| EMILIN3      |  0.0432 |     6.9775 |          1.044 | ↑ risk (worse survival)  |
+| GDF10        | -0.0427 |     4.7047 |          0.958 | ↓ risk (better survival) |
+| ASPM         |  0.0425 |     4.4541 |          1.043 | ↑ risk (worse survival)  |
+| EYA4         |  0.0424 |     4.6371 |          1.043 | ↑ risk (worse survival)  |
+| VGF          |  0.0414 |     5.6388 |          1.042 | ↑ risk (worse survival)  |
