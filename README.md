@@ -6,6 +6,7 @@ pipeline that pulls TCGA data and predicts cancer subtype and survival risk, the
 
 > Tip: Click any figure to open it full-size.
 
+
 | Figure | Summary |
 |---|---|
 | **Fig 1 — Embedding**<br>[![Fig 1](reports/figures/fig1_embedding_subtypes.png)](reports/figures/fig1_embedding_subtypes.png) | - Global sample structure in reduced space.<br>- Quick visual check of cluster separation. |
@@ -14,5 +15,3 @@ pipeline that pulls TCGA data and predicts cancer subtype and survival risk, the
 | **Fig 4 — Forest Biomarkers**<br>[![Fig 4](reports/figures/fig4_forest_cox_biomarkers.png)](reports/figures/fig4_forest_cox_biomarkers.png) | - Top genes ranked by Cox effect size.<br>- Interpretable survival biomarkers. |
 | **Fig 5 — Biomarker Heatmap**<br>[![Fig 5](reports/figures/fig5_biomarker_heatmap_risk.png)](reports/figures/fig5_biomarker_heatmap_risk.png) | - Biomarker expression vs risk stratification.<br>- Pattern-level biological intuition. |
 | **Fig 6 — Volcano DE**<br>[![Fig 6](reports/figures/fig6_volcano_oligo_vs_astro.png)](reports/figures/fig6_volcano_oligo_vs_astro.png) | - DE genes: effect size vs significance.<br>- Highlights candidate subtype drivers. |
-
-
