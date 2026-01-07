@@ -5,7 +5,7 @@ pipeline that pulls TCGA data and predicts cancer subtype and survival risk, the
 ## Results: Key Figures (Paper-ready)
 
 > Tip: Click any figure to open it full-size.
-
+---
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -20,7 +20,8 @@ pipeline that pulls TCGA data and predicts cancer subtype and survival risk, the
         <li>Separation suggests transcriptomic signal is learnable.</li>
       </ul>
     </td>
-
+---
+   </tr> 
     <td width="50%" valign="top">
       <b>Fig 2 — Confusion Matrix</b><br>
       <a href="reports/figures/fig2_confusion_matrix.png">
@@ -48,7 +49,9 @@ pipeline that pulls TCGA data and predicts cancer subtype and survival risk, the
         <li>Demonstrates clinically meaningful stratification from expression data.</li>
       </ul>
     </td>
+   </tr> 
 
+  <tr>
     <td width="50%" valign="top">
       <b>Fig 4 — Forest Plot (Top Cox Biomarkers)</b><br>
       <a href="reports/figures/fig4_forest_cox_biomarkers.png">
@@ -76,7 +79,9 @@ pipeline that pulls TCGA data and predicts cancer subtype and survival risk, the
         <li>Helps connect model outputs to biological patterns.</li>
       </ul>
     </td>
+   </tr>
 
+  <tr>  
     <td width="50%" valign="top">
       <b>Fig 6 — Volcano Plot (Differential Expression)</b><br>
       <a href="reports/figures/fig6_volcano_oligo_vs_astro.png">
